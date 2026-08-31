@@ -1,0 +1,16 @@
+{
+  "name": "secondclass",
+  "version": "1.0.0",
+  "description": "This is a simple sass project",
+  "license": "ISC",
+  "author": "Kayli Adamson",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "serve": "live-server", 
+    "complile": "sass scss/styles.scss css/styles.css -w --no-source-map"
+  },
+  "devDependencies": {
+    "sass": "^1.103.1"
+  }
+}
