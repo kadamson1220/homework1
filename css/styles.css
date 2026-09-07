@@ -9,6 +9,12 @@ body {
   height: 100%;
 }
 
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333333;
+}
+
 h1,
 h2,
 h3,
@@ -21,20 +27,119 @@ p {
 
 nav {
   height: 60px;
-  background-color: paleturquoise;
+  background-color: #2f6f73;
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: center;
+  gap: 50px;
 }
 nav a {
-  color: darkslateblue;
+  color: white;
   text-decoration: none;
+  font-size: 18px;
+}
+nav a:hover {
+  text-decoration: underline;
 }
 
 .hero {
   height: 400px;
-  background-image: url("../images/360_F_283839302_yt6JIsE96Pj4PydFDcBNKDUnuSpYB9h0city.jpg");
+  background-image: url("../images/bg2.avif");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hero h1 {
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #2f6f73;
+  padding: 20px 30px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.content {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 30px;
+  background-color: white;
+  text-align: center;
+  border: 1px solid #dddddd;
+}
+.content h2 {
+  color: #2f6f73;
+}
+.content p {
+  line-height: 1.6;
+}
+
+.image-section {
+  max-width: 1000px;
+  margin: 30px auto;
+  padding: 30px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.image-section img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+}
+.image-section div {
+  flex: 1;
+}
+.image-section div h2 {
+  color: #2f6f73;
+}
+.image-section div p {
+  line-height: 1.6;
+}
+
+.product-section {
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 30px;
+  background-color: white;
+  text-align: center;
+  border: 1px solid #dddddd;
+}
+.product-section img {
+  width: 300px;
+  height: 200px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+.product-section h2 {
+  color: #2f6f73;
+}
+.product-section p {
+  line-height: 1.6;
+}
+
+.page-title {
+  padding: 50px 20px;
+  text-align: center;
+  background-color: #d9eeee;
+}
+.page-title h1 {
+  color: #2f6f73;
+}
+.page-title p {
+  margin-bottom: 0;
+}
+
+footer {
+  height: 60px;
+  background-color: #2f6f73;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer p {
+  margin-bottom: 0;
+  color: white;
 }
