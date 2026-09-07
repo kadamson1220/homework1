@@ -1,16 +1,36 @@
-# Simple Sass Project
+# Wildflower Bouquet Website 🌼
 
-## Introduction
+## About the Project
 
-For this assignment, you will need to know about Sass. Additionally, you should read about the BEM (Block, Element, Modifier) methodology, which uses Sass. You can find more information about BEM in [this article](https://getbem.com/introduction/). Feel free to research this topic further using other resources. This project also builds upon concepts from Homework 1.
+This project is a four-page flower shop website created using HTML and Sass. The website focuses on handmade wildflower bouquets, floral services, in-store classes, and information about the company. The goal was to create a professional and easy-to-navigate website while practicing the use of Sass for styling.
 
-## Learning Objectives
+## Pages
 
-The objectives of this project are:
+- **Home** – Introduces the flower shop and featured bouquets.
+- **About** – Shares who we are, our story, and our goals.
+- **Services** – Provides information about bouquets, floral services, and in-store classes.
+- **Contact** – Includes contact information and a form for visitors to send a message.
 
-- To learn about the BEM methodology.
-- To understand how BEM can benefit your styling of web pages.
+## Technologies Used
 
-## Project Structure
+- HTML5
+- Sass / SCSS
+- CSS
+- Git
+- GitHub
 
-The project is structured as follows:
+## Project Requirements
+
+This project was created as part of an assignment focused on learning how to use Sass within a website. The website contains four pages with at least four sections per page, including navigation and footer sections.
+
+## Web 4 Link
+
+[View the live website on Web 4](ADD-WEB-4-LINK-HERE)
+
+## GitHub Repository
+
+[View the project on GitHub](ADD-GITHUB-LINK-HERE)
+
+## Author
+
+Kayli Adamson
