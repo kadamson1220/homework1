@@ -25,11 +25,11 @@ This project was created as part of an assignment focused on learning how to use
 
 ## Web 4 Link
 
-[View the live website on Web 4](ADD-WEB-4-LINK-HERE)
+[View the live website on Web 4](https://in-info-web4.luddy.indianapolis.iu.edu/~kaadamso/newm315AdvWebDev/Homework1/)
 
 ## GitHub Repository
 
-[View the project on GitHub](ADD-GITHUB-LINK-HERE)
+[View the project on GitHub](https://github.com/kadamson1220/homework1)
 
 ## Author
 
